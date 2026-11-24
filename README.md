@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-rusdyxbt-one-letter-coffee-or-tea-89877fa0/BigConsin/one-letter-coffee-or-tea/rank.svg)](https://make.fun/bounty/u-rusdyxbt-one-letter-coffee-or-tea-89877fa0/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-one-letter-coffee-or-tea-89877fa0)
 [![reward](https://make.fun/badge/u-rusdyxbt-one-letter-coffee-or-tea-89877fa0/BigConsin/one-letter-coffee-or-tea/reward.svg)](https://make.fun/bounty/u-rusdyxbt-one-letter-coffee-or-tea-89877fa0?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-one-letter-coffee-or-tea-89877fa0)
 
-A Python program that writes exactly one letter, A for coffee, and nothing else to /output/entry.txt: no word, no explanation, no punctuation and no trailing newline, so the file is a single UTF-8 character that passes the one-character gate.
+A Python program that writes exactly one letter, a for coffee (lowercase, so the entry is its own distinct text rather than one of thousands of identical capital-A copies), and nothing else to /output/entry.txt: no word, no explanation, no punctuation and no trailing newline, so the file is a single UTF-8 character that passes the one-character gate.
 
 ## Run it
 
